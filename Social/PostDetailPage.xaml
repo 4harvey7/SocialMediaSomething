@@ -1,0 +1,60 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Social.PostDetailPage">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="15">
+
+            <Label Text="{Binding Name}" FontSize="22"/>
+
+            <Image Source="{Binding Image}" HeightRequest="200"/>
+
+            <Label Text="{Binding Description}"/>
+
+            <Label Text="{Binding FormattedDate}" TextColor="Gray"/>
+
+            <Label Text="{Binding VisibilityText}"/>
+
+            <Label Text="Comments"
+                   FontAttributes="Bold"
+                   FontSize="18"/>
+
+            <!-- COMMENT INPUT -->
+            <Editor x:Name="CommentBox"
+                    Placeholder="Write comment..."
+                    HeightRequest="80"/>
+
+            <!-- POST BUTTON -->
+            <Button Text="Post Comment"
+                    BackgroundColor="DodgerBlue"
+                    TextColor="White"
+                    Clicked="OnPostComment"/>
+
+            <!-- COMMENT LIST -->
+            <CollectionView x:Name="CommentList">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Frame Margin="5"
+                               Padding="10"
+                               CornerRadius="10"
+                               BackgroundColor="{AppThemeBinding Light=#F2F2F2, Dark=#2A2A2A}"
+                               HasShadow="False">       
+
+                            <Label Text="{Binding .}"
+                                   FontSize="14"/>
+
+                        </Frame>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
+            <!-- CLOSE -->
+            <Button Text="Close"
+                    BackgroundColor="Gray"
+                    TextColor="White"
+                    Clicked="OnClose"/>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

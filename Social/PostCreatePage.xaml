@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Social.PostCreatePage">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="15">
+
+            <Label Text="Create Post"
+                   FontSize="22"
+                   FontAttributes="Bold"/>
+
+            <Entry x:Name="TitleEntry"
+                   Placeholder="Title"/>
+
+            <Editor x:Name="DescEntry"
+                    Placeholder="Description"
+                    HeightRequest="100"/>
+
+            <Button Text="Pick Image"
+                    Clicked="OnPickImage"/>
+
+            <Image x:Name="PreviewImage"
+                   HeightRequest="180"
+                   Aspect="AspectFill"/>
+
+            <HorizontalStackLayout>
+                <Label Text="Public"/>
+                <Switch x:Name="VisibilitySwitch"
+                        IsToggled="True"/>
+            </HorizontalStackLayout>
+
+            <Button Text="Post"
+                    BackgroundColor="DodgerBlue"
+                    TextColor="White"
+                    Clicked="OnPost"/>
+
+            <Button Text="Cancel"
+                    BackgroundColor="Gray"
+                    TextColor="White"
+                    Clicked="OnCancel"/>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
