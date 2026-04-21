@@ -1,0 +1,14 @@
+# MAUI / .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+
+# Android build
+*.apk
+*.aab
+
+# system files
+.DS_Store
+Thumbs.db
