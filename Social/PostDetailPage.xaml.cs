@@ -1,37 +1,48 @@
+using Social.Entities;
+using Social.Services;
+
 namespace Social;
 
 public partial class PostDetailPage : ContentPage
 {
-    SocialCL post;
+    SocialCL _post;
+    DatabaseServices _db;
 
-    public PostDetailPage(SocialCL selectedPost)
+    public PostDetailPage(SocialCL selectedPost, DatabaseServices db)
     {
         InitializeComponent();
+        _post = selectedPost;
+        _db = db;
 
-        post = selectedPost;
-        BindingContext = post;
-
-        CommentList.ItemsSource = post.Comments;
+        BindingContext = _post;
+        CommentList.ItemsSource = _post.Comments;
     }
 
-    // 🟢 POST COMMENT
-    private void OnPostComment(object sender, EventArgs e)
+    private async void OnPostComment(object sender, EventArgs e)
     {
         if (!string.IsNullOrWhiteSpace(CommentBox.Text))
         {
-            post.Comments.Add(CommentBox.Text);
-
+            _post.Comments.Add(CommentBox.Text);
             CommentBox.Text = "";
 
-            // refresh UI
+            // Save the post back to DB to persist the new comment
+            await _db.SavePost(_post);
+
+            // Refresh UI
             CommentList.ItemsSource = null;
-            CommentList.ItemsSource = post.Comments;
+            CommentList.ItemsSource = _post.Comments;
         }
     }
 
-    // 🟢 CLOSE MODAL
-    private async void OnClose(object sender, EventArgs e)
+    private async void OnDeletePost(object sender, EventArgs e)
     {
-        await Navigation.PopModalAsync();
+        bool answer = await DisplayAlert("Delete", "Delete this post forever?", "Yes", "No");
+        if (answer)
+        {
+            await _db.DeletePost(_post);
+            await Navigation.PopModalAsync();
+        }
     }
+
+    private async void OnClose(object sender, EventArgs e) => await Navigation.PopModalAsync();
 }

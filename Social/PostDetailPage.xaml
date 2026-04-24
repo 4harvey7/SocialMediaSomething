@@ -3,7 +3,9 @@
              x:Class="Social.PostDetailPage">
 
     <ScrollView>
+        
         <VerticalStackLayout Padding="20" Spacing="15">
+            
 
             <Label Text="{Binding Name}" FontSize="22"/>
 
@@ -47,13 +49,20 @@
                     </DataTemplate>
                 </CollectionView.ItemTemplate>
             </CollectionView>
-
-            <!-- CLOSE -->
-            <Button Text="Close"
+            <Grid ColumnDefinitions="*,*" ColumnSpacing="10">
+                <Button Text="Back"
+                    Grid.Column="0"
                     BackgroundColor="Gray"
                     TextColor="White"
                     Clicked="OnClose"/>
 
+                        <Button Text="Delete Post"
+                    Grid.Column="1"
+                    BackgroundColor="Red"
+                    TextColor="White"
+                    CornerRadius="10"
+                    Clicked="OnDeletePost"/>
+                    </Grid> 
         </VerticalStackLayout>
     </ScrollView>
 

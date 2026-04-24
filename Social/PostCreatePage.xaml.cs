@@ -1,3 +1,4 @@
+using Social.Entities;
 namespace Social;
 
 public partial class PostCreatePage : ContentPage
@@ -43,11 +44,16 @@ public partial class PostCreatePage : ContentPage
 
     private async void OnPickImage(object sender, EventArgs e)
     {
-        var result = await FilePicker.PickAsync();
+        var result = await FilePicker.PickAsync(new PickOptions
+        {
+            PickerTitle = "Select Post Image",
+            FileTypes = FilePickerFileType.Images
+        });
 
         if (result != null)
         {
-            imagePath = result.FileName;
+            // We store the path string ONLY. SQLite stays light.
+            imagePath = result.FullPath;
             PreviewImage.Source = ImageSource.FromFile(result.FullPath);
         }
     }

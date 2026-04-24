@@ -3,51 +3,59 @@
   "WorkspaceRootPath": "C:\\Projects\\Mobile-Mauiii\\Social\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA6740C3-9F4D-4BA9-8DE7-129E7C6C890B}|Social\\Social.csproj|c:\\projects\\mobile-mauiii\\social\\social\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BA6740C3-9F4D-4BA9-8DE7-129E7C6C890B}|Social\\Social.csproj|solutionrelative:social\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{7CC95843-DD9B-130B-085A-00A3FECDCCB4}|Social\\Social.csproj|c:\\projects\\mobile-mauiii\\social\\social\\postdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CC95843-DD9B-130B-085A-00A3FECDCCB4}|Social\\Social.csproj|solutionrelative:social\\postdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA6740C3-9F4D-4BA9-8DE7-129E7C6C890B}|Social\\Social.csproj|c:\\projects\\mobile-mauiii\\social\\social\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BA6740C3-9F4D-4BA9-8DE7-129E7C6C890B}|Social\\Social.csproj|solutionrelative:social\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{7CC95843-DD9B-130B-085A-00A3FECDCCB4}|Social\\Social.csproj|c:\\projects\\mobile-mauiii\\social\\social\\postcreatepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC95843-DD9B-130B-085A-00A3FECDCCB4}|Social\\Social.csproj|solutionrelative:social\\postcreatepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA6740C3-9F4D-4BA9-8DE7-129E7C6C890B}|Social\\Social.csproj|c:\\projects\\mobile-mauiii\\social\\social\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BA6740C3-9F4D-4BA9-8DE7-129E7C6C890B}|Social\\Social.csproj|solutionrelative:social\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{7CC95843-DD9B-130B-085A-00A3FECDCCB4}|Social\\Social.csproj|c:\\projects\\mobile-mauiii\\social\\social\\postdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC95843-DD9B-130B-085A-00A3FECDCCB4}|Social\\Social.csproj|solutionrelative:social\\postdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA6740C3-9F4D-4BA9-8DE7-129E7C6C890B}|Social\\Social.csproj|c:\\projects\\mobile-mauiii\\social\\social\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA6740C3-9F4D-4BA9-8DE7-129E7C6C890B}|Social\\Social.csproj|solutionrelative:social\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CC95843-DD9B-130B-085A-00A3FECDCCB4}|Social\\Social.csproj|c:\\projects\\mobile-mauiii\\social\\social\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC95843-DD9B-130B-085A-00A3FECDCCB4}|Social\\Social.csproj|solutionrelative:social\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA6740C3-9F4D-4BA9-8DE7-129E7C6C890B}|Social\\Social.csproj|c:\\projects\\mobile-mauiii\\social\\social\\postcreatepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA6740C3-9F4D-4BA9-8DE7-129E7C6C890B}|Social\\Social.csproj|solutionrelative:social\\postcreatepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CC95843-DD9B-130B-085A-00A3FECDCCB4}|Social\\Social.csproj|c:\\projects\\mobile-mauiii\\social\\social\\postcreatepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CC95843-DD9B-130B-085A-00A3FECDCCB4}|Social\\Social.csproj|solutionrelative:social\\postcreatepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA6740C3-9F4D-4BA9-8DE7-129E7C6C890B}|Social\\Social.csproj|c:\\projects\\mobile-mauiii\\social\\social\\socialfolder\\socialcl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA6740C3-9F4D-4BA9-8DE7-129E7C6C890B}|Social\\Social.csproj|solutionrelative:social\\socialfolder\\socialcl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CC95843-DD9B-130B-085A-00A3FECDCCB4}|Social\\Social.csproj|c:\\projects\\mobile-mauiii\\social\\social\\modalpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CC95843-DD9B-130B-085A-00A3FECDCCB4}|Social\\Social.csproj|solutionrelative:social\\modalpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA6740C3-9F4D-4BA9-8DE7-129E7C6C890B}|Social\\Social.csproj|c:\\projects\\mobile-mauiii\\social\\social\\postcreatepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BA6740C3-9F4D-4BA9-8DE7-129E7C6C890B}|Social\\Social.csproj|solutionrelative:social\\postcreatepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{7CC95843-DD9B-130B-085A-00A3FECDCCB4}|Social\\Social.csproj|c:\\projects\\mobile-mauiii\\social\\social\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CC95843-DD9B-130B-085A-00A3FECDCCB4}|Social\\Social.csproj|solutionrelative:social\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA6740C3-9F4D-4BA9-8DE7-129E7C6C890B}|Social\\Social.csproj|c:\\projects\\mobile-mauiii\\social\\social\\postdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BA6740C3-9F4D-4BA9-8DE7-129E7C6C890B}|Social\\Social.csproj|solutionrelative:social\\postdetailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{7CC95843-DD9B-130B-085A-00A3FECDCCB4}|Social\\Social.csproj|c:\\projects\\mobile-mauiii\\social\\social\\entities\\socialcl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC95843-DD9B-130B-085A-00A3FECDCCB4}|Social\\Social.csproj|solutionrelative:social\\entities\\socialcl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA6740C3-9F4D-4BA9-8DE7-129E7C6C890B}|Social\\Social.csproj|c:\\projects\\mobile-mauiii\\social\\social\\postdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA6740C3-9F4D-4BA9-8DE7-129E7C6C890B}|Social\\Social.csproj|solutionrelative:social\\postdetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CC95843-DD9B-130B-085A-00A3FECDCCB4}|Social\\Social.csproj|c:\\projects\\mobile-mauiii\\social\\social\\services\\databaseservises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC95843-DD9B-130B-085A-00A3FECDCCB4}|Social\\Social.csproj|solutionrelative:social\\services\\databaseservises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA6740C3-9F4D-4BA9-8DE7-129E7C6C890B}|Social\\Social.csproj|c:\\projects\\mobile-mauiii\\social\\social\\modalpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA6740C3-9F4D-4BA9-8DE7-129E7C6C890B}|Social\\Social.csproj|solutionrelative:social\\modalpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CC95843-DD9B-130B-085A-00A3FECDCCB4}|Social\\Social.csproj|c:\\projects\\mobile-mauiii\\social\\social\\modalpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC95843-DD9B-130B-085A-00A3FECDCCB4}|Social\\Social.csproj|solutionrelative:social\\modalpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA6740C3-9F4D-4BA9-8DE7-129E7C6C890B}|Social\\Social.csproj|c:\\projects\\mobile-mauiii\\social\\social\\modalpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BA6740C3-9F4D-4BA9-8DE7-129E7C6C890B}|Social\\Social.csproj|solutionrelative:social\\modalpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{7CC95843-DD9B-130B-085A-00A3FECDCCB4}|Social\\Social.csproj|c:\\projects\\mobile-mauiii\\social\\social\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CC95843-DD9B-130B-085A-00A3FECDCCB4}|Social\\Social.csproj|solutionrelative:social\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC95843-DD9B-130B-085A-00A3FECDCCB4}|Social\\Social.csproj|c:\\projects\\mobile-mauiii\\social\\social\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CC95843-DD9B-130B-085A-00A3FECDCCB4}|Social\\Social.csproj|solutionrelative:social\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\36.1.43\\tools\\Xamarin.Android.Common.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CC95843-DD9B-130B-085A-00A3FECDCCB4}|Social\\Social.csproj|c:\\projects\\mobile-mauiii\\social\\social\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CC95843-DD9B-130B-085A-00A3FECDCCB4}|Social\\Social.csproj|solutionrelative:social\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -57,80 +65,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\AppShell.xaml",
-              "RelativeDocumentMoniker": "Social\\AppShell.xaml",
-              "ToolTip": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\AppShell.xaml",
-              "RelativeToolTip": "Social\\AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-04-21T12:37:35.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\App.xaml",
-              "RelativeDocumentMoniker": "Social\\App.xaml",
-              "ToolTip": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\App.xaml",
-              "RelativeToolTip": "Social\\App.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-04-21T12:37:32.655Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "PostCreatePage.xaml.cs",
-              "DocumentMoniker": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\PostCreatePage.xaml.cs",
-              "RelativeDocumentMoniker": "Social\\PostCreatePage.xaml.cs",
-              "ToolTip": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\PostCreatePage.xaml.cs",
-              "RelativeToolTip": "Social\\PostCreatePage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T10:28:16.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "Social\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\MainPage.xaml.cs",
-              "RelativeToolTip": "Social\\MainPage.xaml.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowDIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T09:04:48.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PostDetailPage.xaml",
-              "DocumentMoniker": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\PostDetailPage.xaml",
-              "RelativeDocumentMoniker": "Social\\PostDetailPage.xaml",
-              "ToolTip": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\PostDetailPage.xaml",
-              "RelativeToolTip": "Social\\PostDetailPage.xaml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-04-21T09:20:23.774Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "PostCreatePage.xaml",
               "DocumentMoniker": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\PostCreatePage.xaml",
               "RelativeDocumentMoniker": "Social\\PostCreatePage.xaml",
@@ -143,41 +90,106 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostCreatePage.xaml.cs",
+              "DocumentMoniker": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\PostCreatePage.xaml.cs",
+              "RelativeDocumentMoniker": "Social\\PostCreatePage.xaml.cs",
+              "ToolTip": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\PostCreatePage.xaml.cs",
+              "RelativeToolTip": "Social\\PostCreatePage.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T10:28:16.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostDetailPage.xaml",
+              "DocumentMoniker": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\PostDetailPage.xaml",
+              "RelativeDocumentMoniker": "Social\\PostDetailPage.xaml",
+              "ToolTip": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\PostDetailPage.xaml",
+              "RelativeToolTip": "Social\\PostDetailPage.xaml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAswEAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-21T09:20:23.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "PostDetailPage.xaml.cs",
+              "DocumentMoniker": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\PostDetailPage.xaml.cs",
+              "RelativeDocumentMoniker": "Social\\PostDetailPage.xaml.cs",
+              "ToolTip": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\PostDetailPage.xaml.cs",
+              "RelativeToolTip": "Social\\PostDetailPage.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T09:20:54.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Social\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\MainPage.xaml.cs",
+              "RelativeToolTip": "Social\\MainPage.xaml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwCsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T09:04:48.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModalPage.xaml",
+              "DocumentMoniker": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\ModalPage.xaml",
+              "RelativeDocumentMoniker": "Social\\ModalPage.xaml",
+              "ToolTip": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\ModalPage.xaml",
+              "RelativeToolTip": "Social\\ModalPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-21T09:06:01.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\MainPage.xaml",
               "RelativeDocumentMoniker": "Social\\MainPage.xaml",
               "ToolTip": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\MainPage.xaml",
               "RelativeToolTip": "Social\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwEMAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-04-21T09:09:40.734Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "SocialCL.cs",
-              "DocumentMoniker": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\SocialFolder\\SocialCL.cs",
-              "RelativeDocumentMoniker": "Social\\SocialFolder\\SocialCL.cs",
-              "ToolTip": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\SocialFolder\\SocialCL.cs",
-              "RelativeToolTip": "Social\\SocialFolder\\SocialCL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\Entities\\SocialCL.cs",
+              "RelativeDocumentMoniker": "Social\\Entities\\SocialCL.cs",
+              "ToolTip": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\Entities\\SocialCL.cs",
+              "RelativeToolTip": "Social\\Entities\\SocialCL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T08:53:31.258Z",
+              "WhenOpened": "2026-04-24T03:32:49.596Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "PostDetailPage.xaml.cs",
-              "DocumentMoniker": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\PostDetailPage.xaml.cs",
-              "RelativeDocumentMoniker": "Social\\PostDetailPage.xaml.cs",
-              "ToolTip": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\PostDetailPage.xaml.cs",
-              "RelativeToolTip": "Social\\PostDetailPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Title": "DatabaseServises.cs",
+              "DocumentMoniker": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\Services\\DatabaseServises.cs",
+              "RelativeDocumentMoniker": "Social\\Services\\DatabaseServises.cs",
+              "ToolTip": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\Services\\DatabaseServises.cs",
+              "RelativeToolTip": "Social\\Services\\DatabaseServises.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T09:20:54.001Z",
+              "WhenOpened": "2026-04-24T03:19:14.467Z",
               "EditorCaption": ""
             },
             {
@@ -188,7 +200,7 @@
               "RelativeDocumentMoniker": "Social\\ModalPage.xaml.cs",
               "ToolTip": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\ModalPage.xaml.cs",
               "RelativeToolTip": "Social\\ModalPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-21T09:06:42.68Z",
               "EditorCaption": ""
@@ -196,19 +208,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "ModalPage.xaml",
-              "DocumentMoniker": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\ModalPage.xaml",
-              "RelativeDocumentMoniker": "Social\\ModalPage.xaml",
-              "ToolTip": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\ModalPage.xaml",
-              "RelativeToolTip": "Social\\ModalPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-04-21T09:06:01.138Z",
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "Social\\MauiProgram.cs",
+              "ToolTip": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\MauiProgram.cs",
+              "RelativeToolTip": "Social\\MauiProgram.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBQAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T03:41:27.615Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Social\\AppShell.xaml",
+              "ToolTip": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\AppShell.xaml",
+              "RelativeToolTip": "Social\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-21T12:37:35.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\App.xaml",
+              "RelativeDocumentMoniker": "Social\\App.xaml",
+              "ToolTip": "C:\\Projects\\Mobile-Mauiii\\Social\\Social\\App.xaml",
+              "RelativeToolTip": "Social\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-21T12:37:32.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Xamarin.Android.Common.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\36.1.43\\tools\\Xamarin.Android.Common.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\36.1.43\\tools\\Xamarin.Android.Common.targets",

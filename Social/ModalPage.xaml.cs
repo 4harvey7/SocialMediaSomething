@@ -1,5 +1,5 @@
 namespace Social;
-
+using Social.Entities;
 public partial class ModalPage : ContentPage
 {
     public SocialCL ResultPost { get; private set; }
